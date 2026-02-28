@@ -14,4 +14,3 @@ def get_user_agent():
     ua = UserAgent()
 #    return ua.chrome
     return ua.random
-
